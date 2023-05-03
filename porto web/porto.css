@@ -1,0 +1,12 @@
+*{
+    margin: 50px;
+    padding: 0 ;
+    align-content: center;
+    background-color: blueviolet;
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*table :hover{
+    color: aliceblue;
+    
+}

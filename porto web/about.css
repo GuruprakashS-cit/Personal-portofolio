@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.detel{
+    margin-left: 8%;
+    margin-top: 13%;
+    position: relative;
+    max-width: 800px;
+    
+    background-color: rgba(225, 225, 225, 0.2);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5) ;
+
+
+}
+span{
+    
+        color: rgb(33, 228, 130);
+        
+    }
+body{
+    background-image: url(images/spacecarrier.png);
+}
+.detel h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color:rgb(#fff) ;
+}
